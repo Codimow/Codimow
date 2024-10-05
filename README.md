@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [guns.lol/codimo](guns.lol/codimo)
 
-- ⚡ Fun fact **Im boring**
+- ⚡ Fun fact **I use Arch Linux**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
