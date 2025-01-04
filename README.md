@@ -44,6 +44,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Codimow/Codimow/output/snake.svg" alt="Snake animation" />
-
 ###
