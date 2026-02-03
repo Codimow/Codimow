@@ -5,7 +5,7 @@
 
 <p align="center">
   <samp>
-    <a href="https://cod4m1">portfolio</a> .
+    <a href="https://cod4m1.vercel.app">portfolio</a> .
     <a href="https://x.com/CodimoDev">x</a> .
     <a href="https://linkedin.com/in/codimo">linkedin</a> .
     <a href="https://www.youtube.com/@cod4m1">youtube</a> 
