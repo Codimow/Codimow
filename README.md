@@ -1,2 +1,13 @@
+<img width="2000" height="1414" alt="blob-detection-2026-02-03T07-48-40" src="https://github.com/user-attachments/assets/aafc9761-c922-4cd5-8ae4-b24767d9122c" />
 
-![Himansu Rawal(1)](https://github.com/user-attachments/assets/e42b1ec3-8356-483b-89bf-3f764994b278)
+## I'm codimo. I make symbols dance until they mean something
+  To write code is to confront what you don't understand about your own thinking
+
+<p align="center">
+  <samp>
+    <a href="https://cod4m1">portfolio</a> .
+    <a href="https://x.com/CodimoDev">x</a> .
+    <a href="https://linkedin.com/in/codimo">linkedin</a> .
+    <a href="https://www.youtube.com/@cod4m1">youtube</a> 
+  </samp>
+</p>
